@@ -1,1 +1,5 @@
-Tjis is update in master branch
+This is update in master branch
+This is a content of bf1
+Thhis is a new contect after merge
+
+These are the final changes
